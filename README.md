@@ -5,17 +5,17 @@ Recidivism, or the reoffense of criminal behavior after release from a prior sen
 
 ### Setting Up the Project Environment
 
-#### Create a Virtual Environment
+#### To Create a Virtual Environment
 
 To create the virtual environment, run the following command:
 python3 -m venv env 
 
-#### Activate the Virtual Environment
+#### To Activate the Virtual Environment
 
 To activate the virtual environment, use the following command:
 source env/bin/activate 
 
-#### Install Dependencies
+#### To Install Dependencies
 
 To install the required dependencies for this project, execute the following command:
 pip install -r requirements.txt 
