@@ -43,14 +43,9 @@ https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-030920-1
 5. **Advanced/Predictive Analysis (Feature Engineering/Model Development)**
 
 6. **Model Evaluation with Interpretation, Insights, and Visualizations**
-   - Results: Predictive accuracy and feature importance rankings.
-   - Interpretation: Discussed implications for criminal justice policy and interventions.
-   - Visualizations: Presented findings through charts and graphs.
 
 7. **Conclusions with Entire Results**
-   - Summary: Recap of findings on key factors influencing recidivism.
-   - Limitations: Addressed data biases and model constraints.
-   - Future Directions: Recommendations for further research and policy implications.
+
 
 
 
