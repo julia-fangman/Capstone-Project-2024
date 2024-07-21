@@ -21,13 +21,36 @@ https://bjs.ojp.gov/library/publications/recidivism-prisoners-released-24-states
 https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-030920-112506 
 
 ## Project Implementation: 
-1. Project Definition and Research : 
-2. Obtain Data (NACJD)
-3. Clean and Process the Data
-4. Exploratory Data Analysis (EDA) and Statistics
-5. Advanced/Predictive Analysis (Feature Engineering/Model Development)
-6. Model Evaluation with Interpretation, Insights, and Visualizations
-7. Conclusions with Entire Results
+
+1. **Project Definition and Research**
+   - Defined objectives: Understand factors influencing recidivism using data analysis.
+   - Hypotheses: Investigate correlations between demographic factors and reoffense rates.
+
+2. **Obtain Data (NACJD)**
+   - Source: Retrieved dataset from NACJD containing recidivism records.
+   - Structure: Detailed data dictionary and overview of dataset variables.
+   - Preprocessing: Initial cleaning for missing values and data normalization.
+
+3. **Clean and Process the Data**
+   - Cleaning: Addressed missing values and outliers.
+   - Transformation: Standardized variables and encoded categorical data.
+
+4. **Exploratory Data Analysis (EDA) and Statistics**
+   - EDA: Visualized distributions and correlations among variables.
+   - Insights: Discovered trends in recidivism rates across different demographics.
+   - Statistics: Calculated summary metrics.
+
+5. **Advanced/Predictive Analysis (Feature Engineering/Model Development)**
+
+6. **Model Evaluation with Interpretation, Insights, and Visualizations**
+   - Results: Predictive accuracy and feature importance rankings.
+   - Interpretation: Discussed implications for criminal justice policy and interventions.
+   - Visualizations: Presented findings through charts and graphs.
+
+7. **Conclusions with Entire Results**
+   - Summary: Recap of findings on key factors influencing recidivism.
+   - Limitations: Addressed data biases and model constraints.
+   - Future Directions: Recommendations for further research and policy implications.
 
 
 
