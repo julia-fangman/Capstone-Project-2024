@@ -30,11 +30,5 @@ https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-030920-1
 7. Conclusions with Entire Results
 
 
-## Predictive Model: 
-
-
-
-## Key Results & Insights: 
-
 
 
