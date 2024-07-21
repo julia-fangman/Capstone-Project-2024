@@ -3,21 +3,22 @@
 ## Introduction to the Project: 
 Recidivism, or the reoffense of criminal behavior after release from a prior sentence, is one of the major concerns of the US Justice System. As a method to both rehabilitate and deter criminal activity, punishment (typically in the form of prison sentences) is a fundamental practice in the US. However, if the system of justice fails to rehabilitate effectively, then the purpose of imprisonment is lost and the vast resources devoted to its cause are brought into question. Understanding the contributing variables that lead to recidivism can help to optimize and improve the means of enforcing the justice system, and promote a better society. Here, this study attempts to take recidivism data published by the National Institute of Justice and perform various exploratory analyses and modeling to better understand the factors that contribute to this issue.
 
-Project Environment
-To create the virtual environment:
+### Setting Up the Project Environment
 
-bash
-Copy code
-python3 -m venv env
-To activate the virtual environment:
+#### Create a Virtual Environment
 
-bash
-Copy code
-source env/bin/activate
-To install the dependencies:
+To create the virtual environment, run the following command:
+python3 -m venv env 
 
-Copy code
-pip install -r requirements.txt
+#### Activate the Virtual Environment
+
+To activate the virtual environment, use the following command:
+source env/bin/activate 
+
+#### Install Dependencies
+
+To install the required dependencies for this project, execute the following command:
+pip install -r requirements.txt 
 
 ### Data Sources: 
 Data Set from: https://www.kaggle.com/datasets/uocoeeds/recidivism  
