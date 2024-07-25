@@ -41,10 +41,15 @@ Other Resources:
    - Statistics: Calculated summary metrics.
 
 5. **Advanced/Predictive Analysis (Feature Engineering/Model Development)**
+   - Model Selection: Used Logistic Regression, Random Forest, SVM, and Neural Network for predictive analysis.
+   - Data Preparation: Created preprocessing pipeline with imputation, scaling, and encoding.
+   - Training: Trained models using training dataset.
+   - Hyperparameter Tuning: Conducted grid search for Random Forest to optimize parameters.
+   - Feature Engineering: Created interaction term 'Age_at_Release_x_Gang_Affiliated' to enhance model performance.
 
-6. **Model Evaluation with Interpretation, Insights, and Visualizations**
+7. **Model Evaluation with Interpretation, Insights, and Visualizations**
 
-7. **Conclusions with Entire Results**
+8. **Conclusions with Entire Results**
 
 
 
