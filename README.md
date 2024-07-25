@@ -16,9 +16,9 @@ pip install -r requirements.txt
 ### Data Sources: 
 Data Set from: https://www.kaggle.com/datasets/uocoeeds/recidivism  
 Other Resources: 
-https://www.icpsr.umich.edu/web/pages/NACJD/index.html 
-https://bjs.ojp.gov/library/publications/recidivism-prisoners-released-24-states-2008-10-year-follow-period-2008-2018 
-https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-030920-112506 
+- https://www.icpsr.umich.edu/web/pages/NACJD/index.html 
+- https://bjs.ojp.gov/library/publications/recidivism-prisoners-released-24-states-2008-10-year-follow-period-2008-2018 
+- https://www.annualreviews.org/content/journals/10.1146/annurev-criminol-030920-112506 
 
 ## Project Implementation: 
 
