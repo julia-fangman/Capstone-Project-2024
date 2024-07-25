@@ -48,8 +48,12 @@ Other Resources:
    - Feature Engineering: Created interaction term 'Age_at_Release_x_Gang_Affiliated' to enhance model performance.
 
 7. **Model Evaluation with Interpretation, Insights, and Visualizations**
+   - Cross-validation: Evaluated model performance using cross-validation.
+   - Metrics: Reported accuracy, precision, recall, F1 score, and ROC AUC for each model.
+   - Visualization: Plotted prediction distributions for each model.
+   - Feature Importance: Analyzed important features contributing to predictions.
 
-8. **Conclusions with Entire Results**
+9. **Conclusions with Entire Results**
 
 
 
