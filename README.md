@@ -41,12 +41,17 @@ Other Resources:
    - Statistics: Calculated summary metrics.
 
 5. **Advanced/Predictive Analysis (Feature Engineering/Model Development)**
+   - Preprocessed and transformed training and testing datasets.
+   - Developed preprocessing and model pipelines for Logistic Regression, Random Forest, SVM, and Neural Network.
+   - Trained models using the new cleaned training dataset.
 
+6. **Model Evaluation with Interpretation, Insights, and Visualizations**
+   - Generated and saved recidivism predictions for the testing dataset.
+   - Calculated descriptive statistics for model predictions.
+   - Created visualizations to analyze model performance and prediction distribution.
+   - Performed cross-validation to evaluate and compare model accuracy and consistency.
 
-7. **Model Evaluation with Interpretation, Insights, and Visualizations**
-
-
-9. **Conclusions with Entire Results**
+7. **Conclusions with Entire Results**
 
 
 
