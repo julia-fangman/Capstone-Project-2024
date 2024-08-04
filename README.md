@@ -53,6 +53,8 @@ Other Resources:
    - Calculated descriptive statistics for model predictions.
    - Created visualizations to analyze model performance and prediction distribution.
    - Performed cross-validation to evaluate and compare model accuracy and consistency.
+
+![Predictive Model Distributions](IMG_1223.png)
   
 ![Accuracy & Standard Deviation of the Predictive Models](IMG_1224.png)
  
