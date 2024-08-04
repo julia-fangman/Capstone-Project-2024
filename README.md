@@ -39,6 +39,9 @@ Other Resources:
    - EDA: Visualized distributions and correlations among variables.
    - Insights: Discovered trends in recidivism rates across different demographics.
    - Statistics: Calculated summary metrics.
+     
+   ![Results From Exploratory Data Analysis](recidivism_tableau.png)
+
 
 5. **Advanced/Predictive Analysis (Feature Engineering/Model Development)**
    - Preprocessed and transformed training and testing datasets.
