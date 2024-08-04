@@ -52,7 +52,10 @@ Other Resources:
    - Performed cross-validation to evaluate and compare model accuracy and consistency.
 
 7. **Conclusions with Entire Results**
-
+   - Prior arrest episodes, employment stability, education level, and gang affiliation all showed strong correlations with recidivism rates.
+   - Employment stability had the greatest effect on recidivism outcomes in the dataset.
+   - Logistic Regression modeling was best able to predict recidivism outcomes in a testing dataset, though still had a relatively weak mean accuracy of 67.74%.
+   - Overall, more attributes and data would be necessary to build a more complete predictive model for recidivism.
 
 
 
