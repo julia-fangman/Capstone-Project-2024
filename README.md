@@ -53,6 +53,9 @@ Other Resources:
    - Calculated descriptive statistics for model predictions.
    - Created visualizations to analyze model performance and prediction distribution.
    - Performed cross-validation to evaluate and compare model accuracy and consistency.
+  
+![Accuracy & Standard Deviation of the Predictive Models](IMG_1224.png)
+ 
 
 7. **Conclusions with Entire Results**
    - Prior arrest episodes, employment stability, education level, and gang affiliation all showed strong correlations with recidivism rates.
